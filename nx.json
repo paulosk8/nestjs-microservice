@@ -38,7 +38,8 @@
       "options": {
         "targetName": "test"
       },
-      "exclude": ["apps/api-gateway-e2e/**/*"]
+      "exclude": ["apps/api-gateway-e2e/**/*", "apps/products-e2e/**/*"]
     }
-  ]
+  ],
+  "nxCloudId": "6a3bda37471b3daf3a6c298a"
 }
